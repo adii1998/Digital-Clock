@@ -46,14 +46,13 @@ body{
     letter-spacing:0.5rem ;
 }
 .am-pm{
-    position: absolute;
+    position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
-    top: 46vh;
-    right: 36rem;
+    top: 35vh;
+    left: 19rem;
     flex-direction: column;
-    margin-left: 10px;
 }
 .period{
     font-size: 3rem;
